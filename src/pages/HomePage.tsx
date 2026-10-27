@@ -53,7 +53,7 @@ export function HomePage() {
       <main id="main-content" role="main" className="min-h-screen px-4 py-12 sm:px-8">
         <div className="mx-auto mb-12 max-w-2xl text-center">
           <h1 id="home-page-title" className="mb-3 text-3xl font-bold text-[#252525]">
-            Commerce support
+            eCommerce Support Portal
           </h1>
           <p id="home-page-intro" className="text-sm text-[#525866]">
             Welcome to our support portal! To get started, just pick a category below that best fits
